@@ -4,10 +4,10 @@ This is to ensure that you know whom to reach out to in case you have any questi
 
 Who is the Chief Privacy Officer?
 
-- <input type="checkbox"> Vincent Kenney
-- <input type="checkbox"> Mohan Balachandran
-- <input type="checkbox"> Adam Leko
 - <input type="checkbox"> Travis Good
+- <input type="checkbox"> Kevin Lindbergh
+- <input type="checkbox"> Christopher Gerg
+- <input type="checkbox"> Maggie Ostrowski
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
@@ -16,14 +16,14 @@ Who is the Chief Privacy Officer?
 
 Who is the Chief Security Officer?
 
-- <input type="checkbox"> Mike Ortiz
-- <input type="checkbox"> Mohan Balachandran
-- <input type="checkbox"> Adam Leko
+- <input type="checkbox"> Christopher Gerg
 - <input type="checkbox"> Travis Good
+- <input type="checkbox"> Kevin Lindbergh
+- <input type="checkbox"> Mark Olschesky
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>Adam Leko is the Chief Security Officer.</p></blockquote>
+	<blockquote><p>Christopher Gerg is the Chief Security Officer.</p></blockquote>
 </div>
 
 You have questions and concerns about training - compliance or security related. You should reach out to:
