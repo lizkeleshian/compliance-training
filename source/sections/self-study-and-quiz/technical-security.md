@@ -1,6 +1,6 @@
 ## Technical Security
 
-This set of questions will help you guage your understanding of the technical security requirements under HIPAA and the Datica policies in place to meet them.
+This set of questions will help you gauge your understanding of the technical security requirements under HIPAA and the Datica policies in place to meet them.
 
 ---
 
@@ -16,7 +16,7 @@ You are responsible for your username/password when accessing the computer syste
 
 What is the Datica policy for password strength?
 
-- <input type="checkbox"> `Miniumum 8 characters - any combination of words and letters`
+- <input type="checkbox"> `Minimum 8 characters - any combination of words and letters`
 - <input type="checkbox"> `Minimum 8 characters - no dictionary words, one number, one special character`
 - <input type="checkbox"> `Minimum 8 characters - all numbers`
 - <input type="checkbox"> `Whatever's easy to remember`

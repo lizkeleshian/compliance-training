@@ -1,6 +1,6 @@
 ## Security
 
-This set of questions will help you guage your understanding of the physical security requirements under HIPAA and the Datica policies in place to meet them.
+This set of questions will help you gauge your understanding of the physical security requirements under HIPAA and the Datica policies in place to meet them.
 
 
 ---
@@ -15,7 +15,7 @@ Customer or customer's data can be cached within your laptop
 	<blockquote><p>Customer data should not be ever downloaded locally onto your laptop.</p></blockquote>
 </div>
 
-It is ok to walk away from you computer without locking it or logging off
+It is ok to walk away from your computer without locking it or logging off
 
 - <input type="checkbox"> `Yes`
 - <input type="checkbox"> `No`

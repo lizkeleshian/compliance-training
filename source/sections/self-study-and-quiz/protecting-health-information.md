@@ -1,6 +1,6 @@
 ## Protecting Health Information
 
-This set of questions is to help you guage your understanding of the privacy rule and the regulations governing protected health information and the Datica policies in place to address them.
+This set of questions is to help you gauge your understanding of the privacy rule and the regulations governing protected health information and the Datica policies in place to address them.
 
 ---
 
