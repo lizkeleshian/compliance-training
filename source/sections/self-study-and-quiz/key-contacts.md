@@ -5,7 +5,7 @@ This is to ensure that you know whom to reach out to in case you have any questi
 Who is the Chief Privacy Officer?
 
 - <input type="checkbox"> Travis Good
-- <input type="checkbox"> Kevin Lindbergh
+- <input type="checkbox"> Ryan Rich
 - <input type="checkbox"> James Kearney
 - <input type="checkbox"> Maggie Ostrowski
 
@@ -18,7 +18,7 @@ Who is the Chief Security Officer?
 
 - <input type="checkbox"> Nicole Janko
 - <input type="checkbox"> Travis Good
-- <input type="checkbox"> Kevin Lindbergh
+- <input type="checkbox"> Ryan Rich
 - <input type="checkbox"> Mark Olschesky
 
 <div class="reveal-answer">
