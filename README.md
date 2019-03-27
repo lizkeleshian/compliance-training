@@ -5,7 +5,7 @@ This is an overview training of HIPAA, with coverage of key definitions and prov
 ### How to build the docs
 
 - Download this repository
-- cd `policies`
+- cd `training`
 - `bundle install`
 
 *Commands*
