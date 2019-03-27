@@ -6,7 +6,7 @@ Who is the Chief Privacy Officer?
 
 - <input type="checkbox"> Travis Good
 - <input type="checkbox"> Kevin Lindbergh
-- <input type="checkbox"> Christopher Gerg
+- <input type="checkbox"> James Kearney
 - <input type="checkbox"> Maggie Ostrowski
 
 <div class="reveal-answer">
@@ -16,14 +16,14 @@ Who is the Chief Privacy Officer?
 
 Who is the Chief Security Officer?
 
-- <input type="checkbox"> Christopher Gerg
+- <input type="checkbox"> Nicole Janko
 - <input type="checkbox"> Travis Good
 - <input type="checkbox"> Kevin Lindbergh
 - <input type="checkbox"> Mark Olschesky
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>Christopher Gerg is the Chief Security Officer.</p></blockquote>
+	<blockquote><p>Nicole Janko is the Chief Security Officer.</p></blockquote>
 </div>
 
 You have questions and concerns about training - compliance or security related. You should reach out to:
