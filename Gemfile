@@ -7,3 +7,4 @@ gem "redcarpet"
 gem "middleman-syntax"
 gem "middleman-search_engine_sitemap"
 gem "nokogiri"
+gem 'middleman-livereload', '~> 3.4.3'

@@ -24,3 +24,6 @@ set :url_root, 'https://training.datica.com'
 activate :search_engine_sitemap
 
 page "/sitemap.xml", :layout => false
+
+# Livereload
+activate :livereload, host: '0.0.0.0', port: '1234'
